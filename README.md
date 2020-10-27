@@ -2,7 +2,7 @@
 - Debian Linux: [https://github.com/goranbr/os-debian](https://github.com/goranbr/os-debian)
 - The bash Shell: [https://github.com/goranbr/bash-dotfiles](https://github.com/goranbr/bash-dotfiles)
 
-## Udemy Courses
+## Udemy
 
 ### Databases
 - MySQL: [https://github.com/goranbr/udemy-mysql-da-bi](https://github.com/goranbr/udemy-mysql-da-bi)
