@@ -4,18 +4,11 @@ You can use the [editor on GitHub](https://github.com/goranbr/goranbr.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # Linux
 - [https://github.com/goranbr/os-debian](https://github.com/goranbr/os-debian)
 - [https://github.com/goranbr/bash-dotfiles](https://github.com/goranbr/bash-dotfiles)
 
-# Udemy Courses
+## Udemy Courses
 ## Web Design
 - CSS: [https://github.com/goranbr/udemy-css-tcg](https://github.com/goranbr/udemy-css-tcg)
 - Postgres
@@ -27,7 +20,11 @@ Syntax highlighted code block
 - Ansible: [https://github.com/goranbr/ansible](*https://github.com/goranbr/ansible)
 - Docker Mastery: [https://github.com/goranbr/udemy-docker-mastery](*https://github.com/goranbr/udemy-docker-mastery)
 - Kubernetes Mastery: [https://github.com/goranbr/udemy-kubernetes-mastery](https://github.com/goranbr/udemy-kubernetes-mastery)
- 
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
