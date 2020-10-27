@@ -11,10 +11,11 @@ You can use the [editor on GitHub](https://github.com/goranbr/goranbr.github.io/
 
 ### Web Design
 - CSS: [https://github.com/goranbr/udemy-css-tcg](https://github.com/goranbr/udemy-css-tcg)
-- Postgres
+
 ### Databases
 - MySQL: [https://github.com/goranbr/udemy-mysql-da-bi](https://github.com/goranbr/udemy-mysql-da-bi)
 - PostgreSQL: [https://github.com/goranbr/udemy-using-postgresql](https://github.com/goranbr/udemy-using-postgresql)
+
 ### DevOps
 - Git & Github: [https://github.com/goranbr/udemy-git-and-github](https://github.com/goranbr/udemy-git-and-github)
 - Ansible: [https://github.com/goranbr/ansible](https://github.com/goranbr/ansible)
