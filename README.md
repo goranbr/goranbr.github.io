@@ -5,8 +5,8 @@ You can use the [editor on GitHub](https://github.com/goranbr/goranbr.github.io/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 # Linux
-- [https://github.com/goranbr/os-debian](https://github.com/goranbr/os-debian)
-- [https://github.com/goranbr/bash-dotfiles](https://github.com/goranbr/bash-dotfiles)
+- Debian Linux: [https://github.com/goranbr/os-debian](https://github.com/goranbr/os-debian)
+- The bash Shell: [https://github.com/goranbr/bash-dotfiles](https://github.com/goranbr/bash-dotfiles)
 
 ## Udemy Courses
 ## Web Design
