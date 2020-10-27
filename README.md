@@ -1,4 +1,3 @@
-# My repositories
 ## Linux
 - Debian Linux: [https://github.com/goranbr/os-debian](https://github.com/goranbr/os-debian)
 - The bash Shell: [https://github.com/goranbr/bash-dotfiles](https://github.com/goranbr/bash-dotfiles)
@@ -25,6 +24,6 @@
 - My website uses the styles from the Jekyll theme in my [repository settings](https://github.com/goranbr/goranbr.github.io/settings). 
 - The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Support and Contacs
+- Check out our [documentation](https://docs.github.com/categories/github-pages-basics/)
+- Or [contact support](https://github.com/contact) and we’ll help you sort it out.
