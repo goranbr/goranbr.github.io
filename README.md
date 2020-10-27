@@ -14,8 +14,8 @@ You can use the [editor on GitHub](https://github.com/goranbr/goranbr.github.io/
 - PostgreSQL: [https://github.com/goranbr/udemy-using-postgresql](https://github.com/goranbr/udemy-using-postgresql)
 
 ### DevOps
-- Git & Github: [https://github.com/goranbr/udemy-git-and-github](https://github.com/goranbr/udemy-git-and-github)
 - Ansible: [https://github.com/goranbr/ansible](https://github.com/goranbr/ansible)
+- Git & Github: [https://github.com/goranbr/udemy-git-and-github](https://github.com/goranbr/udemy-git-and-github)
 - Docker Mastery: [https://github.com/goranbr/udemy-docker-mastery](https://github.com/goranbr/udemy-docker-mastery)
 - Kubernetes Mastery: [https://github.com/goranbr/udemy-kubernetes-mastery](https://github.com/goranbr/udemy-kubernetes-mastery)
 
