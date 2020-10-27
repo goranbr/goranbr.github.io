@@ -8,6 +8,7 @@ You can use the [editor on GitHub](https://github.com/goranbr/goranbr.github.io/
 - The bash Shell: [https://github.com/goranbr/bash-dotfiles](https://github.com/goranbr/bash-dotfiles)
 
 ## Udemy Courses
+
 ### Web Design
 - CSS: [https://github.com/goranbr/udemy-css-tcg](https://github.com/goranbr/udemy-css-tcg)
 - Postgres
