@@ -1,21 +1,20 @@
 # Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/goranbr/goranbr.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/goranbr/goranbr.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files. When you commit to this repository, GitHub Pages runs [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site from the content in your Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-# Linux
+# My repositories
+## Linux
 - Debian Linux: [https://github.com/goranbr/os-debian](https://github.com/goranbr/os-debian)
 - The bash Shell: [https://github.com/goranbr/bash-dotfiles](https://github.com/goranbr/bash-dotfiles)
 
-# Udemy Courses
-## Web Design
+## Udemy Courses
+### Web Design
 - CSS: [https://github.com/goranbr/udemy-css-tcg](https://github.com/goranbr/udemy-css-tcg)
 - Postgres
-## Databases
+### Databases
 - MySQL: [https://github.com/goranbr/udemy-mysql-da-bi](https://github.com/goranbr/udemy-mysql-da-bi)
 - PostgreSQL: [https://github.com/goranbr/udemy-using-postgresql](https://github.com/goranbr/udemy-using-postgresql)
-## DevOps
+### DevOps
 - Git & Github: [https://github.com/goranbr/udemy-git-and-github](https://github.com/goranbr/udemy-git-and-github)
 - Ansible: [https://github.com/goranbr/ansible](https://github.com/goranbr/ansible)
 - Docker Mastery: [https://github.com/goranbr/udemy-docker-mastery](https://github.com/goranbr/udemy-docker-mastery)
