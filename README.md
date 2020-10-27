@@ -11,15 +11,23 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Linux
+- [https://github.com/goranbr/os-debian](https://github.com/goranbr/os-debian)
+- [https://github.com/goranbr/bash-dotfiles](https://github.com/goranbr/bash-dotfiles)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+# Udemy Courses
+## Web Design
+- CSS: [https://github.com/goranbr/udemy-css-tcg](https://github.com/goranbr/udemy-css-tcg)
+- Postgres
+## Databases
+- MySQL: [https://github.com/goranbr/udemy-mysql-da-bi](https://github.com/goranbr/udemy-mysql-da-bi)
+- PostgreSQL: [https://github.com/goranbr/udemy-using-postgresql](https://github.com/goranbr/udemy-using-postgresql)
+## DevOps
+- Git & Github: [https://github.com/goranbr/udemy-git-and-github](https://github.com/goranbr/udemy-git-and-github)
+- Ansible: [https://github.com/goranbr/ansible](*https://github.com/goranbr/ansible)
+- Docker Mastery: [https://github.com/goranbr/udemy-docker-mastery](*https://github.com/goranbr/udemy-docker-mastery)
+- Kubernetes Mastery: [https://github.com/goranbr/udemy-kubernetes-mastery](https://github.com/goranbr/udemy-kubernetes-mastery)
+ 
 
 **Bold** and _Italic_ and `Code` text
 
