@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/goranbr/goranbr.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Debian Linux: [https://github.com/goranbr/os-debian](https://github.com/goranbr/os-debian)
 - The bash Shell: [https://github.com/goranbr/bash-dotfiles](https://github.com/goranbr/bash-dotfiles)
 
-## Udemy Courses
+# Udemy Courses
 ## Web Design
 - CSS: [https://github.com/goranbr/udemy-css-tcg](https://github.com/goranbr/udemy-css-tcg)
 - Postgres
