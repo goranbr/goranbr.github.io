@@ -17,8 +17,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - PostgreSQL: [https://github.com/goranbr/udemy-using-postgresql](https://github.com/goranbr/udemy-using-postgresql)
 ## DevOps
 - Git & Github: [https://github.com/goranbr/udemy-git-and-github](https://github.com/goranbr/udemy-git-and-github)
-- Ansible: [https://github.com/goranbr/ansible](*https://github.com/goranbr/ansible)
-- Docker Mastery: [https://github.com/goranbr/udemy-docker-mastery](*https://github.com/goranbr/udemy-docker-mastery)
+- Ansible: [https://github.com/goranbr/ansible](https://github.com/goranbr/ansible)
+- Docker Mastery: [https://github.com/goranbr/udemy-docker-mastery](https://github.com/goranbr/udemy-docker-mastery)
 - Kubernetes Mastery: [https://github.com/goranbr/udemy-kubernetes-mastery](https://github.com/goranbr/udemy-kubernetes-mastery)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
