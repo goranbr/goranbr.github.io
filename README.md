@@ -9,9 +9,6 @@ You can use the [editor on GitHub](https://github.com/goranbr/goranbr.github.io/
 
 ## Udemy Courses
 
-### Web Design
-- CSS: [https://github.com/goranbr/udemy-css-tcg](https://github.com/goranbr/udemy-css-tcg)
-
 ### Databases
 - MySQL: [https://github.com/goranbr/udemy-mysql-da-bi](https://github.com/goranbr/udemy-mysql-da-bi)
 - PostgreSQL: [https://github.com/goranbr/udemy-using-postgresql](https://github.com/goranbr/udemy-using-postgresql)
@@ -22,16 +19,10 @@ You can use the [editor on GitHub](https://github.com/goranbr/goranbr.github.io/
 - Docker Mastery: [https://github.com/goranbr/udemy-docker-mastery](https://github.com/goranbr/udemy-docker-mastery)
 - Kubernetes Mastery: [https://github.com/goranbr/udemy-kubernetes-mastery](https://github.com/goranbr/udemy-kubernetes-mastery)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Web Design
+- CSS: [https://github.com/goranbr/udemy-css-tcg](https://github.com/goranbr/udemy-css-tcg)
 
-```markdown
-Syntax highlighted code block
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+### Markdown
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
