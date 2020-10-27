@@ -1,7 +1,3 @@
-# Welcome to GitHub Pages
-
-Use the [editor on GitHub](https://github.com/goranbr/goranbr.github.io/edit/main/README.md) to maintain your website in Markdown files. When you commit to this repository, GitHub Pages runs [Jekyll](https://jekyllrb.com/) to rebuild your site from your Markdown files.
-
 # My repositories
 ## Linux
 - Debian Linux: [https://github.com/goranbr/os-debian](https://github.com/goranbr/os-debian)
@@ -22,12 +18,12 @@ Use the [editor on GitHub](https://github.com/goranbr/goranbr.github.io/edit/mai
 ### Web Design
 - CSS: [https://github.com/goranbr/udemy-css-tcg](https://github.com/goranbr/udemy-css-tcg)
 
-### Markdown
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/goranbr/goranbr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## GitHub Pages
+- Use the [editor on GitHub](https://github.com/goranbr/goranbr.github.io/edit/main/README.md) to maintain this website in Markdown files.
+- When I commit to this repository, GitHub Pages runs [Jekyll](https://jekyllrb.com/) to rebuild my site from my Markdown files.
+- More about markdown: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- My website uses the styles from the Jekyll theme in my [repository settings](https://github.com/goranbr/goranbr.github.io/settings). 
+- The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
